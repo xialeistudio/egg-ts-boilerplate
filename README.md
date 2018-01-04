@@ -4,6 +4,7 @@ h5 api 项目
 
 ## 目录结构
 
+```text
 |-- app
     |-- controller  控制器
         |-- index.d.ts  控制器声明文件
@@ -25,6 +26,7 @@ h5 api 项目
 |-- test            单元测试目录
     |-- app
         |-- controller  控制器测试
+```
 
 ## 开始开发
 
